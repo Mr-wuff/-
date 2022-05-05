@@ -16,6 +16,7 @@ public class question2_3 {
         int T = sc.nextInt();//定义结束的时间为T周
         if (T == 104){
             System.out.println("第"+ T + "周购入的量：" + 0);
+            System.out.println("第"+ T + "周训练的操作手量：" + 0);
         }
         /*
         T+1为提前量：因为新购入的设备需要一周准备时间，故第T周的设备是为第T+1周而准备的
